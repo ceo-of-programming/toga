@@ -8,6 +8,7 @@ from .paths import paths
 from .widgets.activityindicator import ActivityIndicator
 from .widgets.box import Box
 from .widgets.button import Button
+from .widgets.camerafeed import CameraFeed
 from .widgets.canvas import Canvas
 from .widgets.detailedlist import DetailedList
 from .widgets.divider import Divider
@@ -51,6 +52,7 @@ __all__ = [
     'ActivityIndicator',
     'Box',
     'Button',
+    'CameraFeed',
     'Canvas',
     'DetailedList',
     'Divider',

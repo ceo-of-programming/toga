@@ -13,6 +13,7 @@ from .widgets.base import Widget
 from .widgets.box import Box
 from .widgets.button import Button
 from .widgets.canvas import Canvas
+from .widgets.camerafeed import CameraFeed
 from .widgets.datepicker import DatePicker
 from .widgets.detailedlist import DetailedList
 from .widgets.divider import Divider
@@ -56,6 +57,7 @@ __all__ = [
     'Box',
     'Button',
     'Canvas',
+    'CameraFeed',
     'DetailedList',
     'Divider',
     'Window',
